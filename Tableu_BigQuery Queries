@@ -1,5 +1,7 @@
 Queries used for Tableu Dashboard:
 
+Tableu link: https://public.tableau.com/app/profile/gian.marco.caramelli/viz/CovidDashboardPortfolio_17091406069980/Dashboard2?publish=yes
+
 1. Global Overview:
 select
 sum(new_cases) as Total_Cases,
