@@ -1,5 +1,5 @@
 --Project is divided into 3 parts: 1. Data Cleaning 2. Data Analysis 3. Data Visualisation on Tableau
---Tableau link: https://public.tableau.com/app/profile/gian.marco.caramelli/viz/WIP_Movie_Dashboard/Dashboard2
+--Tableau link: https://public.tableau.com/app/profile/gian.marco.caramelli/viz/WIP_InteractiveMovieDashboard/Dashboard2?publish=yes
 
 --DATA CLEANING
 --Improve the clarity of the CSV format by extracting the genres names.
